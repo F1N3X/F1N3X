@@ -36,6 +36,12 @@
   <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height="100">
 </div>
 
+### CMS
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.pixabay.com/photo/2022/01/16/17/24/wordpress-6942722_1280.png" height="100">
+</div>
+
+
 
 # 💬 How to contact me ?
 <a href="mailto:quentingarnier92320@gmail.com" target="_blank"><img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" width="100" height="100"></a>
