@@ -26,6 +26,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="100">
 </div>
 
+### Backend
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://d1zviajkun9gxg.cloudfront.net/user/prod/2020/01/03/fastpages-0622317d-e016-4e7a-b25e-8eef9db1610a.png" height="100">
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-1.png" height="100">
+  <img src="https://media.jvt.me/03019529e6.png" height="100">
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/square_480/expressjslogo.png" height="100">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png" height="100">
+  <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height="100">
+</div>
+
 
 # 💬 How to contact me ?
 <a href="mailto:quentingarnier92320@gmail.com" target="_blank"><img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" width="100" height="100"></a>
