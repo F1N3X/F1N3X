@@ -4,7 +4,6 @@
 - 🧑‍💻 Currently 2nd year student in web development
 - 📌 Eager to become a full-stack developer
 - 👥 Invested in school's coding association
-- 
 
 # 👷 What is my coding value ?
 
