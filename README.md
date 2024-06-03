@@ -4,12 +4,7 @@
 - 🧑‍💻 Currently 2nd year student in web development
 - 📌 Eager to become a full-stack developer
 - 👥 Invested in school's coding association
-
-# 💚 What do I like ?
-
-| Sport | Series | Games | Music |
-|--------|--------|--------|--------|
-| Fencing | Wakfu | Overwatch | Violin |
+- 
 
 # 👷 What is my coding value ?
 
@@ -53,6 +48,13 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="50">
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/blender_logo-freelogovectors.net_.png" height="50">
 </div>
+
+
+# 💚 What do I like ?
+
+| Sport | Series | Games | Music |
+|--------|--------|--------|--------|
+| Fencing | Wakfu | Overwatch | Violin |
 
 
 
