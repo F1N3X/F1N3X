@@ -14,8 +14,17 @@
 # 👷 What is my coding value ?
 
 ## Techs :
-
-## Stats :
+### Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="100">
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="100">
+</div>
 
 
 # 💬 How to contact me ?
