@@ -46,6 +46,14 @@
   <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" height="100">
 </div>
 
+### Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="100">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" height="100">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="100">
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/blender_logo-freelogovectors.net_.png" height="100">
+</div>
+
 
 
 # 💬 How to contact me ?
