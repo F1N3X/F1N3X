@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world)](https://git.io/typing-svg)
 
 # 🧐 Who am I ?
-- 🧑‍💻 Currently 2nd year student in web development
+- 🧑‍💻 Currently 3rd year student in web development
+- 💼 In apprenticeship as a full-stack developer at Dataventure
 - 📌 Eager to become a full-stack developer
 - 👥 Invested in school's coding association
 
